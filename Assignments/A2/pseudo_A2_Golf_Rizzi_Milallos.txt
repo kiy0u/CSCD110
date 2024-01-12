@@ -1,0 +1,17 @@
+Prompt the user to enter in the hole, par value and number of strokes
+Assign the above values to their respective variables 
+Calculate the difference of the number of strokes and par value to get the term for that value,
+Assign the difference to its own variable 
+If the difference is 0, assign the phrase "a par" 
+If the difference is 1, assign the phrase "a bogey"
+If the difference is 2, assign the phrase "a double bogey"
+If the difference is 3, assign the phrase "a triple bogey"
+If the difference is 4, assign the phrase "a 4 over par"
+If the difference is 5, assign the phrase "a 5 over par"
+If the difference is -1, assign the phrase "a birdie"
+If the difference is -2, assign the phrase "an Eagle"
+If the difference is -3, assign the phrase "a Double Eagle"
+If the difference is -4, assign the phrase "a Condor"
+If the difference is -5, assign the phrase "an Ostritch"
+If the difference falls outside the range of -5 to 5, assign the phrase "BAD SCORE"
+Display the hole number, par value and the par slang 

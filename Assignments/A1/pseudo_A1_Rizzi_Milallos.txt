@@ -1,0 +1,8 @@
+Prompt user to enter an non zero integer
+Prompt user to enter another non zero integer
+Perform the sum of the first and second integer and assign it's total to a variable
+Perform the difference of the first and second integer and assign it's total to a variable 
+Peform the multiplication of the first and second integer and assign it's total to a variable
+Perform the squaring of the first number by the second number and assign it's total to a variable
+Perform the division of the first number by the second number and assign it's total and remainer to a variable
+Display all totals 

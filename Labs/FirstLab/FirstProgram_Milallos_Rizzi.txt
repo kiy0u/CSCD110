@@ -1,0 +1,29 @@
+Python 3.11.5 (v3.11.5:cce6ba91b3, Aug 24 2023, 10:50:31) [Clang 13.0.0 (clang-1300.0.29.30)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 2+2
+4
+>>> 50-5*7
+15
+>>> (50-5*7)/3
+5.0
+>>> print('Hello World')
+Hello World
+>>> nm = input('What is your name:')
+What is your name:Rizzi
+>>> print ('My name is',nm)
+My name is Rizzi
+>>> print(x)
+Traceback (most recent call last):
+  File "<pyshell#6>", line 1, in <module>
+    print(x)
+NameError: name 'x' is not defined
+>>> x = 5
+>>> x = x + 3
+>>> print (x)
+8
+>>> if x > 5
+SyntaxError: incomplete input
+>>> 
+================ RESTART: /Users/kiyou/Documents/FirstProgram.py ===============
+What is your age:18
+You have lived 157680 hours!

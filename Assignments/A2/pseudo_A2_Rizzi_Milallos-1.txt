@@ -1,0 +1,9 @@
+Prompt user to enter an integer from the range between 1-7
+If user enters the integer "1", display the word "Monday"
+If user enters the integer "2", display the word "Tuesday"
+If user enters the integer "3", display the word "Wednesday"
+If user enters the integer "4", display the word "Thursday"
+If user enters the integer "5", display the word "Friday"
+If user enters the integer "6", display the word "Saturday" and the phrase "Happy weekend!"
+If user enters the integer "7", display the word "Sunday" and the phrase "Happy weekend!"
+If user enters an integer that's not in the range of 1-7, display the phrase "Error: I asked for a number from 1 to 7. Please enter a number between 1 to 7."
